@@ -31,10 +31,10 @@ To view the score table, use the `/leaderboard` command. This command displays t
 <Discord>
   <Message profile="countr">
     <Command slot="reply" command="/leaderboard" profile="promise" />
-    {"🏆 Top 25 users of "}<Mention type="channel">counting</Mention>{":"}
+    {"🏆 Top 25 Usuarios del canal "}<Mention type="channel">counting</Mention>{":"}
     <Embed slot="embeds" colors="#bd4632" authorImage="/ps-logo-on-blurple.png" authorName="Counting Leaderboard">
       <Description slot="description">
-        {"🥇 "}<Mention>Kai</Mention>{", "}<Bold>score:</Bold>{" 10,000"}<br/>
+        {"🥇 "}<Mention>Kai</Mention>{", "}<Bold>Puntuación:</Bold>{" 10,000"}<br/>
         {"🥈 "}<Mention>Helper</Mention>{", "}<Bold>score:</Bold>{" 5,190"}<br/>
         {"🥉 "}<Mention>Josh</Mention>{", "}<Bold>score:</Bold>{" 2,687"}<br/>
         <Bold>4th</Bold>{" "}<Mention>Mathias</Mention>{", "}<Bold>score:</Bold>{" 2,074"}<br/>
